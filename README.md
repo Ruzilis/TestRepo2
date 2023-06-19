@@ -10,3 +10,4 @@ Update readme file on branch fix1 from web.
 #### I love my new dev skill, Oh my god, I love developing! I want to learn more and work on to make cool software!
 
 Do what you want to do and give Universe do it's work to make your life the best version of it.
+Test `git pull`.
