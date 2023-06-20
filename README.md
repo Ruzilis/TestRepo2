@@ -9,4 +9,5 @@ Where are you from?
 ### The book structure
 1. Chapter one
     1. stage one
+    2. stage two
 2. Chapter two
